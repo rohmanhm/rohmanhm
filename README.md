@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohmanhm&label=Profile%20views&color=0e75b6&style=flat" alt="rohmanhm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohmanhm" alt="rohmanhm" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/rohmanhm" target="blank"><img src="https://img.shields.io/twitter/follow/rohmanhm?logo=twitter&style=for-the-badge" alt="rohmanhm" /></a> </p>
 
 - 🔭 I’m currently working on **Building my first product**
